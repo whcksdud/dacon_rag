@@ -5,7 +5,7 @@
 
 # file
 
-eval.ipynb - 평가 파일
-main.ipynb - 테스트 파일
-gemma2.ipynb - gemma2 9b Qrola 파일
+eval.ipynb - 평가 파일 \n
+main.ipynb - 테스트 파일 \n
+gemma2.ipynb - gemma2 9b Qrola 파일 \n
 llama3.ipynb - llama3.1 8B Qrola 파일
